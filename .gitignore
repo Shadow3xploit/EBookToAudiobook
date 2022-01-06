@@ -1,0 +1,8 @@
+*.epub
+*.mp3
+*.txt
+
+/mp3
+/documents
+/epub
+/components/__pycache__
